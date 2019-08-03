@@ -1,0 +1,22 @@
+-----Recording Jmeter Tools/Plugins---------
+
+
+
+1) Badboy Software
+
+2) Blazermeter
+
+3) Jmeter Recorder
+
+
+
+
+Jmeter Recorder
+
+1) Add proxies i.e Port 8888 to settings
+2) Adding certificate to browser which will get generated after record
+apache-jmeter-5.1.1\apache-jmeter-5.1.1\bin
+
+
+
+kartikey.edureka25@gmail.com
